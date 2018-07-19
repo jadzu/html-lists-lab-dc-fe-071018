@@ -67,8 +67,10 @@ categories and one or more items in _each_:
 ```HTML
 <ul>
   <li>Sandwiches
+    <ul>
       <li>Ham and Cheese</li>
       <li>Grilled Cheese</li>
+    </ul>
   </li>
   <li>Snacks
     <li>Nacho Cheese French Fries</li>
